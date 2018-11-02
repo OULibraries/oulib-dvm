@@ -1,5 +1,5 @@
 {
     "name": "oulib/dvm",
-    "description" :"test package"
+    "description" :"test package",
     "require": {}
 }
